@@ -1,2 +1,3 @@
-#define SECRET_SSID "ARRIS-46DD"
-#define SECRET_PASS "503124088488"
+#define SECRET_SSID ""
+#define SECRET_PASS ""
+
